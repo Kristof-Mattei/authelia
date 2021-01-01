@@ -589,7 +589,7 @@ components:
             type: object
             properties:
               appId:
-                type: strign
+                type: string
                 example: https://auth.example.com
               version:
                 type: string
